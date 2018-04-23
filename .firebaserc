@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "prod": "festify-79b08",
+    "beta": "festify-beta",
+    "dev": "festify-dev",
+    "default": "festify-music-hub"
+  }
+}
